@@ -10,4 +10,5 @@
 - 💀 [**Bot-ruler. Just for fun. :)**](http://t.me/buhoivodiybot)
 - 📺 [**Channel for bot developers**](https://t.me/aiogram_hent)
 
-**🔗 Bio source: https://t.me/nulloremptybio/6**
+**🕊 [My telegram](https://t.me/nullmatawasoradesu)**
+**🔗 [Bio source](https://t.me/nulloremptybio/6)**
