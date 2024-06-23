@@ -1,6 +1,6 @@
 # 👋 はじめまして、私はイリヤです！
 
-**I'm a 16 y.o. Python developer, I love Postgres and Fluent, I write bots and I'm learning Japanese.**
+**I'm a 16 y.o. Python backend developer, I love PostgreSQL, SQLAlchemy and Arch Linux.**
 
 **❤️ My projects:**
 - ☕️ [**Timekiller with the theme of coffee**](https://t.me/kohimeka_bot)
