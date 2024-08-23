@@ -10,6 +10,4 @@
 - 💀 [**Another simple gamebot. Just for fun.**](http://t.me/buhoivodiybot)
 - 📺 [**Channel for bot developers**](https://t.me/aiogram_hent)
 
-**🕊 [My telegram](https://t.me/wakaree)**
-
 **🔗 [Bio source](https://t.me/wakaree_shtpst/6)**
