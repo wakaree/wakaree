@@ -2,7 +2,7 @@
 
 **I'm a 16 y.o. Python backend developer, I love PostgreSQL, SQLAlchemy and Linux.**
 
-**❤️ My projects:**
+**❤️ My telegram bots:**
 - ☕️ [**Timekiller with the theme of coffee**](https://t.me/kohimeka_bot)
 - 🕶 [**Anonymous chat**](https://t.me/tokumei_chatto_bot)
 - 🫂 [**Echoall (it's like an anonymous chat, but without rooms)**](https://t.me/kohiechoallbot)
@@ -10,6 +10,6 @@
 - 💀 [**Another simple gamebot. Just for fun.**](http://t.me/buhoivodiybot)
 - 📺 [**Channel for bot developers**](https://t.me/aiogram_hent)
 
-**🕊 [My telegram](https://t.me/nullmatawasoradesu)**
+**🕊 [My telegram](https://t.me/wakaree)**
 
-**🔗 [Bio source](https://t.me/nulloremptybio/6)**
+**🔗 [Bio source](https://t.me/wakaree_shtpst/6)**
