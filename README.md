@@ -1,4 +1,4 @@
-**18 y.o. Python backend developer from Kyiv.**
+**Python Backend Engineer from Germany.**
 
 **❤️ My telegram bots:**
 - ☕️ [**Timekiller with the theme of coffee**](https://t.me/kohimeka_bot)
