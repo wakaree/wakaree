@@ -10,7 +10,4 @@
 - 🫂 [**Echoall (it's like an anonymous chat, but without rooms)**](https://t.me/kohiechoallbot)
 - 📖 [**A simple aiogram documentation navigator**](https://t.me/aiodocbot)
 - 📺 [**Channel for bot developers**](https://t.me/aiogram_hent)
-
-🕒 Weekly coding activity ([WakaTime](https://wakatime.com))
-
-[![wakatime](https://wakatime.com/badge/user/nullmatawasoradesu.svg)](https://wakatime.com/@nullmatawasoradesu)
+  
